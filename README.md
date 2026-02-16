@@ -47,7 +47,6 @@
 - 🔧 **Building AI agents** — Designing scalable agent architectures with LangChain, LangGraph, and Google ADK
 - 🚀 **Accelerating startups** — Fractional CTO engagements helping pre-seed and seed-stage founders ship faster
 - 🎓 **Teaching** — Software engineering at Master's level, AI-assisted development workflows for engineering teams
-- ✍️ **Sharing knowledge** — Writing about AI-native development and agentic engineering at [lukin.uk](https://lukin.uk)
 
 ## Education
 
