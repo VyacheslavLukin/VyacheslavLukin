@@ -1,4 +1,4 @@
-# Hi, I'm Vyacheslav 👋
+# Hi, I'm Slav 👋
 
 📍 **Cambridge, UK** | 🚀 **Startup Founder** | 🤖 **Fractional CTO & AI Agent Builder** | 🎓 **Carnegie Mellon MSIT-SE**
 
