@@ -25,7 +25,7 @@
 ## Career Highlights
 
 - 🏗️ **Built 6 production AI agents** — Content assessment, optimization, and quality assurance at [YAi Digital](https://yai.digital)
-- 📈 **Scaled startup to $500k revenue** — Founded Edge Vision, an AI-powered transport analytics company. Built from scratch with 3-person team and $120k investment
+- 📈 **Scaled ITS startup to $500k revenue** — Founded [Edge Vision](http://edgevision.pro.tilda.ws/), building EdgeAI software to retrofit conventional traffic signals into smart I2X-ready intersections. Real-time computer vision on the edge for traffic flow digitization, GHG reduction, and V2X-connected transport. Built from scratch with 3-person team and $120k investment
 - 📡 **Launched first LTE network in Russia** — Led core network engineering at MegaFon, zero SLA breaches across millions of subscribers
 - 🎓 **Carnegie Mellon MSIT-SE** — Master of Science in Information Technology - Software Engineering
 - 🏆 **"Industry Leader" award** — Recognized by Innopolis University for bridging industry and academia
@@ -35,7 +35,7 @@
 
 | Domain | Technologies |
 |---|---|
-| **AI & LLM** | LangChain, LangGraph, Google ADK, Vertex AI, PyTorch, TensorFlow |
+| **AI & LLM** | LangChain, LangGraph, Google ADK, Vertex AI, PyTorch, TensorFlow, Computer Vision |
 | **Backend** | Python, FastAPI, Node.js, PostgreSQL, Redis, SQLite |
 | **Frontend** | React, Svelte, TypeScript, JavaScript |
 | **Infrastructure** | GCP, Docker, CI/CD, Linux, Terraform |
@@ -58,7 +58,7 @@
 ## Connect
 
 [![Website](https://img.shields.io/badge/-lukin.uk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://lukin.uk)
-[![LinkedIn](https://img.shields.io/badge/-Vyacheslav_Lukin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyacheslavlukin/)
+[![LinkedIn](https://img.shields.io/badge/-Vyacheslav_Lukin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slav-lukin/)
 [![Email](https://img.shields.io/badge/-slava@yai.digital-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:slava@yai.digital)
 [![YAi Digital](https://img.shields.io/badge/-YAi_Digital-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0id2hpdGUiPjx0ZXh0IHg9IjIiIHk9IjE4IiBmb250LXNpemU9IjE2Ij7wn6SFPC90ZXh0Pjwvc3ZnPg==&logoColor=white)](https://yai.digital)
 
