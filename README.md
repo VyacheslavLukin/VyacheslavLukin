@@ -73,7 +73,7 @@
 - 🌍 Worked across Russia, UAE, and UK
 - 📡 Started career configuring telecom switches serving millions of subscribers
 - 🧑‍🏫 Created hackathon programs for children aged 10-17
-- ☕ Powered by British tea and Cambridge cycling
+- ☕ Powered by British tea and Cambridge running
 - 🤖 Run multiple AI agent instances concurrently — because one agent is never enough
 - 🎯 Believe AI agents are the future of software development
 
