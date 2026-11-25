@@ -2,7 +2,7 @@
 
 📍 **Cambridge, UK** | 🤖 **Fractional CTO & AI Agent Builder** | 🚀 **2x Startup Founder** | 🎓 **Carnegie Mellon MSIT-SE**
 
-🌐 **[lukin.uk](https://lukin.uk)** — services, case studies, writing, and a free 30-min discovery chat.
+🌐 **[lukin.uk](https://lukin.uk)**
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Claude Agent SDK](https://img.shields.io/badge/-Claude_Agent_SDK-191919?style=flat-square&logo=anthropic&logoColor=white)
